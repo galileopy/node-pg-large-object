@@ -1,6 +1,6 @@
 {
-  "name": "pg-large-object",
-  "version": "2.0.0",
+  "name": "@cnc/pg-lobject",
+  "version": "0.0.1",
   "author": "Joris van der Wel <joris@jorisvanderwel.com>",
   "description": "Large object support for PostgreSQL clients (node-postgres)",
   "keywords": [
